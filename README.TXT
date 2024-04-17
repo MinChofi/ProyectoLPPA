@@ -7,4 +7,4 @@ Administrador del proyecto:
 
 Tecnologias usadas:
 
-- Git Bash
+- Git Bash.
