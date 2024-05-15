@@ -1,0 +1,117 @@
+*   {
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+    font-family: Heebo-Regular, Arial, sans-serif;
+    }
+
+.div1 {
+    border: 0px;
+    margin: 0px;
+    padding: 0px;
+    width: 0px;
+    height: 0px;
+    position: absolute;
+    position: relative;
+}
+
+h1 {
+    color: white;
+    font-size: 64px;
+    margin: 0px;
+}
+
+article h2 {
+    color: #94be1f;
+}
+
+footer {
+    color: white;
+    background-color: black;
+}
+
+h4 {
+    background-color: #94be1f;
+    margin-right: 1760px;
+}
+
+
+ul {
+    list-style: none;
+}
+
+#headerh1 {
+    background-color: #94be1f;
+    align-items: center;
+    padding: 8px;
+}
+
+#ArtiNot {
+    align-items: center;
+    border-bottom:solid 2px #f2f2f2;
+    height: 40px;
+    margin: 0 0 100px 0;
+}
+
+#ArtiNot p {
+            font-size: 12px;
+            color: #94be1f;
+            font-weight: 500;
+            }
+#ArtiNot a  {
+               font-size: 12px;
+               color: #242f37;
+               font-weight: 500;
+               text-decoration: none;
+            }
+
+h2  {
+        font-family: NotoSansDisplay-Black, "Arial Black", sans-serif;
+        font-size: 60px;
+        text-align: center;
+        line-height: 70px;
+        padding: 0.5rem 0px;
+    } 
+
+span {
+        font-size: 14px;
+        margin: auto;
+        background-color: #94be1f;
+        text-align: center;
+        color: #242f37;
+        display: block;
+        width: max-content;
+        font-family: Heebo-bold, "Arial Black", sans-serif !important;
+        padding: 5px 15px;
+        border-radius: 5px;
+        height: 30px;
+    }
+
+    
+.ImageText       {
+                    padding: 10px;
+                    background-color: #94be1f;
+                    color: white;
+                    line-height: 21px;
+                    font-size: 14px;
+                    font-family: NotoSansDisplay-Regular, Arial, sans-serif;
+                    width: 644px;
+                    position: relative;
+                    bottom: 66px;
+                    left: 10px;
+                 }
+
+.Cachin {
+            height: 113px;
+            width: 113px;
+            object-fit: cover;
+            display: block;
+        }
+
+.PVer {color: #94be1f;}
+
+.Tapa {            
+    height: 300px;
+    width: 200px;
+    object-fit: cover;
+    display: block;}
