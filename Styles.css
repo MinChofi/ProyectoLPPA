@@ -115,3 +115,57 @@ span {
     width: 200px;
     object-fit: cover;
     display: block;}
+
+    
+.Menu {
+        display: flex;
+        justify-content: flex-end;
+      }
+      
+.Menu ul {
+        list-style: none;
+        margin: 0;
+        padding: 0;
+      }
+      
+.Menu li {
+        display: inline-block;
+        margin-left: 20px;
+      }
+      
+.Menu a {
+        text-decoration: none;
+        color: #333;
+      }
+      
+.MenuHam {
+        display: none;
+      }
+      
+@media (max-width: 768px) {
+        .Menu {
+          flex-direction: column;
+          align-items: flex-end;
+        }
+      
+.MenuHam {
+          display: block;
+          margin-top: 10px;
+          cursor: pointer;
+        }
+      
+.Bar {
+          width: 30px;
+          height: 3px;
+          background-color: #333;
+          margin: 5px 0;
+        }
+      
+.Menu ul {
+          display: none;
+        }
+      
+.Menu ul.open {
+          display: block;
+        }
+      }
